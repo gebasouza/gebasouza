@@ -1,10 +1,10 @@
-Olá 👋 Meu nome é Guilhermo
+Olá 👋 Meu nome é Gerson Souza
 ============================
 
 Desenvolvedor de Software Full Stack
 ------------------------
 
-Sou um desenvolvedor de 19 anos e hacker desde os 16. Adoro codificar e descobrir como resolver problemas profundos usando tecnologia de ponta. Meu foco principal é desenvolvimento front e back-end, fazendo aplicações que impactam a vida de milhares de usuários.
+Pós graduado em Desenvolvimento em Aplicações para WEB pela Faculdade de Paraiso do Norte – Paraná e atua na área de tecnologia desde de 2009 como coordenador no campus IV CCNT da Universidade do estado do Pará e atuando em projetos pessoais de programação e aplicativos.
 
 Também sou aluno da [ 42 | Rio ](https://42.rio/), uma escola de Engenharia de Software que possui [ 47 campus em 26 países ](https://www.42network.org/42-schools/).
 
