@@ -6,7 +6,6 @@ Desenvolvedor de Software Full Stack
 
 Pós graduado em Desenvolvimento em Aplicações para WEB pela Faculdade de Paraiso do Norte – Paraná e atua na área de tecnologia desde de 2009 como coordenador no campus IV CCNT da Universidade do estado do Pará e atuando em projetos pessoais de programação e aplicativos.
 
-Também sou aluno da [ 42 | Rio ](https://42.rio/), uma escola de Engenharia de Software que possui [ 47 campus em 26 países ](https://www.42network.org/42-schools/).
 
 <div>
     <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
