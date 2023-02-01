@@ -9,7 +9,7 @@ Pós graduado em Desenvolvimento em Aplicações para WEB pela Faculdade de Para
 🔍 Meu portifólio:  <a href="https://gsprojects.com.br/" target="_blank" rel="noreferrer"><img src='https://img.shields.io/website-up-down-green-red/http/monip.org.svg'></a><br>
 
 
-📱 Whatpsapp:  <a href="https://wa.me/message/GU53Q4EGYWYQG1" target="_blank" rel="noreferrer"><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'></a>
+
 ------------------------
 
 * 🌍 Moro em Belém de Pará, Brasil 
@@ -53,10 +53,11 @@ Pós graduado em Desenvolvimento em Aplicações para WEB pela Faculdade de Para
 <a href="https://www.facebook.com/GersonSouzza" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
 
- <a href="https://www.facebook.com/GersonSouzza" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/whatsapp.svg" width="32" height="32" /></a> 
+
  <a href="https://www.instagram.com/gerson.ssouza/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <br><br>
+
+📱 Whatpsapp:  <a href="https://wa.me/message/GU53Q4EGYWYQG1" target="_blank" rel="noreferrer"><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'></a>
 
 ###  Emblemas
 
