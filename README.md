@@ -15,11 +15,12 @@ Pós graduado em Desenvolvimento em Aplicações para WEB pela Faculdade de Para
     <img src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'>
     <img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'>
     <img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'>
+    <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white'>
   
 
 </div>
 
-* 🌍 Moro no Rio de Janeiro, Brasil
+* 🌍 Moro em Belém de Pará, Brasil 
 * ✉️ Você pode entrar em contato comigo em [ guilhermomasid@gmail.com ](mailto:guilhermomasid@gmail.com)
 * 🚀 Atualmente estou trabalhando no [ Result Sistemas ](http://resultsistemas.com)
 * 🧠 Estou aprendendo Javascript Avançado, Testes Unitários e linguagem de programsssação
