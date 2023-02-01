@@ -51,7 +51,7 @@ Pós graduado em Desenvolvimento em Aplicações para WEB pela Faculdade de Para
 <b>Minhas estatísticas do GitHub</b>
 
 <a href="https://www.github.com/gebasouza" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+src="https://img.shields.io/github/followers/gebasouza?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 ![Gerson Souza](https://github-readme-stats.vercel.app/api?username=gebasouza&theme=blue-green)
 	
