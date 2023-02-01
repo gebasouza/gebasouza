@@ -23,7 +23,7 @@ src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-th
 
 ###  Habilidades
 <div>
-    <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black'>
+    <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=black'>
     <img src='https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white'>
     <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
     <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
