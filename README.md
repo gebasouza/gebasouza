@@ -53,7 +53,7 @@ Pós graduado em Desenvolvimento em Aplicações para WEB pela Faculdade de Para
 
  <a href="https://www.facebook.com/GersonSouzza" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/whatsapp.svg" width="32" height="32" /></a> 
- <a href="https://www.facebook.com/GersonSouzza" target="_blank" rel="noreferrer">
+ <a href="https://www.instagram.com/gerson.ssouza/" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
 
 ###  Emblemas
