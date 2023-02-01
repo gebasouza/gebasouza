@@ -11,7 +11,7 @@ Pós graduado em Desenvolvimento em Aplicações para WEB pela Faculdade de Para
 
 * 🌍 Moro em Belém de Pará, Brasil 
 * ✉️ Você pode entrar em contato comigo em [ gerson.cesupa@gmail.com ](mailto:gerson.cesupa@gmail.com)
-* 🚀 Atualmente estou trabalhando no [ Result Sistemas ](http://resultsistemas.com)
+* 🚀 Atualmente estou trabalhando no UEPA.
 * 🧠 Estou aprendendo Javascript Avançado, Testes Unitários e linguagem de programsssação
 * 🤝 Estou aberto a colaborar em projetos de alto impacto na vida das pessoas
 * ⚡ Amo esportes
@@ -47,7 +47,8 @@ Pós graduado em Desenvolvimento em Aplicações para WEB pela Faculdade de Para
  <a href="https://www.linkedin.com/in/gerson-souza/" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
  
-
+<a href="https://www.linkedin.com/in/gerson-souza/" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
 
 ###  Emblemas
 
