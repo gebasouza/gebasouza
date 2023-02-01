@@ -7,7 +7,7 @@ Desenvolvedor de Software Full Stack
 Pós graduado em Desenvolvimento em Aplicações para WEB pela Faculdade de Paraiso do Norte – Paraná e atua na área de tecnologia desde de 2009 como coordenador no campus IV CCNT da Universidade do estado do Pará e atuando em projetos pessoais de programação e aplicativos.
 
 Meu portifólio:
-<img src='https://img.shields.io/website-up-down-green-red/http/monip.org.svgsite:https://gsprojects.com.br/'>
+<img src='https://img.shields.io/website-up-down-green-red/http/monip.org.svg'>
 
 ------------------------
 
