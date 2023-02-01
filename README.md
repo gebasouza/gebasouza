@@ -17,8 +17,7 @@ Pós graduado em Desenvolvimento em Aplicações para WEB pela Faculdade de Para
 * 🤝 Estou aberto a colaborar em projetos de alto impacto na vida das pessoas
 * ⚡ Amo esportes
 
-<a href="https://www.github.com/gebasouza" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+
 
 
 ###  Habilidades
@@ -51,6 +50,9 @@ src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-th
 ###  Emblemas
 
 <b>Minhas estatísticas do GitHub</b>
+
+<a href="https://www.github.com/gebasouza" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 <a href="http://www.github.com/gebasouza"><img src="https://github-readme-stats-gebasouza.vercel.app/api?username=gebasouza&show_icons=true&hide=&count_private=true&title_color =3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="estatísticas do GitHub de gebasouza" /></a>
 
