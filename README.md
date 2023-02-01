@@ -6,8 +6,7 @@ Desenvolvedor de Software Full Stack
 
 Pós graduado em Desenvolvimento em Aplicações para WEB pela Faculdade de Paraiso do Norte – Paraná e atua na área de tecnologia desde de 2009 como coordenador no campus IV CCNT da Universidade do estado do Pará e atuando em projetos pessoais de programação e aplicativos.
 
-🔍 Meu portifólio:<br>
-<a href="https://gsprojects.com.br/" target="_blank" rel="noreferrer"><img src='https://img.shields.io/website-up-down-green-red/http/monip.org.svg'></a>
+🔍 Meu portifólio:  <a href="https://gsprojects.com.br/" target="_blank" rel="noreferrer"><img src='https://img.shields.io/website-up-down-green-red/http/monip.org.svg'></a>
 
 ------------------------
 
@@ -49,8 +48,13 @@ Pós graduado em Desenvolvimento em Aplicações para WEB pela Faculdade de Para
  <a href="https://www.linkedin.com/in/gerson-souza/" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
  
-<a href="https://www.linkedin.com/in/gerson-souza/" target="_blank" rel="noreferrer">
+<a href="https://www.facebook.com/GersonSouzza" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
+
+ <a href="https://www.facebook.com/GersonSouzza" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/whatsapp.svg" width="32" height="32" /></a> 
+ <a href="https://www.facebook.com/GersonSouzza" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
 
 ###  Emblemas
 
