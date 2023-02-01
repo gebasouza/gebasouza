@@ -1,13 +1,16 @@
 Olá 👋 Meu nome é Gerson Souza
 ============================
 
-Desenvolvedor de Software Full Stack 2
+Desenvolvedor de Software Full Stack 
 ------------------------
 
 Pós graduado em Desenvolvimento em Aplicações para WEB pela Faculdade de Paraiso do Norte – Paraná e atua na área de tecnologia desde de 2009 como coordenador no campus IV CCNT da Universidade do estado do Pará e atuando em projetos pessoais de programação e aplicativos.
 
 ![Gerson Souza](https://github-readme-stats.vercel.app/api?username=gebasouza&theme=blue-green)
-	<div>
+
+###  Habilidades	
+
+    <div>
     <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
     <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
     <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'>
