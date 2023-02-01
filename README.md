@@ -6,7 +6,6 @@ Desenvolvedor de Software Full Stack
 
 Pós graduado em Desenvolvimento em Aplicações para WEB pela Faculdade de Paraiso do Norte – Paraná e atua na área de tecnologia desde de 2009 como coordenador no campus IV CCNT da Universidade do estado do Pará e atuando em projetos pessoais de programação e aplicativos.
 
-https://github-readme-stats.vercel.app/api?username=gebasouza&theme=dracule
 
 ![Gerson Souza](https://github-readme-stats.vercel.app/api?username=gebasouza&theme=dracule)
 	<div>
