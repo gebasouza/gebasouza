@@ -6,8 +6,8 @@ Desenvolvedor de Software Full Stack
 
 Pós graduado em Desenvolvimento em Aplicações para WEB pela Faculdade de Paraiso do Norte – Paraná e atua na área de tecnologia desde de 2009 como coordenador no campus IV CCNT da Universidade do estado do Pará e atuando em projetos pessoais de programação e aplicativos.
 
-
-<div>
+https://github-readme-stats.vercel.app/api?username=gebasouza&theme=blue-green
+	<div>
     <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
     <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
     <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'>
@@ -22,7 +22,7 @@ Pós graduado em Desenvolvimento em Aplicações para WEB pela Faculdade de Para
 * 🌍 Moro no Rio de Janeiro, Brasil
 * ✉️ Você pode entrar em contato comigo em [ guilhermomasid@gmail.com ](mailto:guilhermomasid@gmail.com)
 * 🚀 Atualmente estou trabalhando no [ Result Sistemas ](http://resultsistemas.com)
-* 🧠 Estou aprendendo Javascript Avançado, Testes Unitários e linguagem de programação C
+* 🧠 Estou aprendendo Javascript Avançado, Testes Unitários e linguagem de programsssação
 * 🤝 Estou aberto a colaborar em projetos de alto impacto na vida das pessoas
 * ⚡ Amo esportes e o meu preferido é o Crossfit
 
