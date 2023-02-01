@@ -16,7 +16,7 @@ https://github-readme-stats.vercel.app/api?username=gebasouza&theme=blue-green
     <img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'>
     <img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'>
   
-
+kkjkjkj
 </div>
 
 * 🌍 Moro no Rio de Janeiro, Brasil
