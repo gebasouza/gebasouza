@@ -24,9 +24,9 @@ Pós graduado em Desenvolvimento em Aplicações para WEB pela Faculdade de Para
 * 🚀 Atualmente estou trabalhando no [ Result Sistemas ](http://resultsistemas.com)
 * 🧠 Estou aprendendo Javascript Avançado, Testes Unitários e linguagem de programsssação
 * 🤝 Estou aberto a colaborar em projetos de alto impacto na vida das pessoas
-* ⚡ Amo esportes e o meu preferido é o Crossfit
+* ⚡ Amo esportes
 
-<a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/gebasouza" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 ###  Habilidades
