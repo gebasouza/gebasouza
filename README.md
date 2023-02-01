@@ -9,6 +9,21 @@ Pós graduado em Desenvolvimento em Aplicações para WEB pela Faculdade de Para
 ![Gerson Souza](https://github-readme-stats.vercel.app/api?username=gebasouza&theme=blue-green)
 	
     
+
+
+------------------------
+
+* 🌍 Moro em Belém de Pará, Brasil 
+* ✉️ Você pode entrar em contato comigo em [ guilhermomasid@gmail.com ](mailto:guilhermomasid@gmail.com)
+* 🚀 Atualmente estou trabalhando no [ Result Sistemas ](http://resultsistemas.com)
+* 🧠 Estou aprendendo Javascript Avançado, Testes Unitários e linguagem de programsssação
+* 🤝 Estou aberto a colaborar em projetos de alto impacto na vida das pessoas
+* ⚡ Amo esportes
+
+<a href="https://www.github.com/gebasouza" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+
+
 ###  Habilidades
 <div>
     <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
@@ -22,15 +37,6 @@ Pós graduado em Desenvolvimento em Aplicações para WEB pela Faculdade de Para
   
 </div>
 
-* 🌍 Moro em Belém de Pará, Brasil 
-* ✉️ Você pode entrar em contato comigo em [ guilhermomasid@gmail.com ](mailto:guilhermomasid@gmail.com)
-* 🚀 Atualmente estou trabalhando no [ Result Sistemas ](http://resultsistemas.com)
-* 🧠 Estou aprendendo Javascript Avançado, Testes Unitários e linguagem de programsssação
-* 🤝 Estou aberto a colaborar em projetos de alto impacto na vida das pessoas
-* ⚡ Amo esportes
-
-<a href="https://www.github.com/gebasouza" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 ###  Habilidades
 
